@@ -2,7 +2,7 @@
 //  AppLocalization.swift
 //  Localisation
 //
-//  Created by Neil Patel on 10/19/18.
+//  Created by Pankaj on 10/19/18.
 //  Copyright © 2018 Pankaj Gondaliya. All rights reserved.
 //
 
